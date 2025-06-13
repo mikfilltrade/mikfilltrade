@@ -13,6 +13,7 @@ Despite living with a disability, I actively pursue my passion for technology an
 
 - Learning more about **Linux and server management**
 - Exploring **Python frameworks** like Django and FastAPI
+- Make first steps in **Golang**
 - Understanding **Web3** and building decentralized applications
 
 ## 💡 Goals
